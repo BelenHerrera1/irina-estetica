@@ -1,0 +1,18 @@
+* {
+    background-color: #FFF2E8; 
+}
+
+
+h1, b {
+    color:#FA148F; font-family: 'Fauna One', serif;
+}
+
+h2, h3, nav, label, input, button {
+    color: #281245; font-family: 'Fauna One', serif;
+}
+
+p {
+    color:#c61079; font-family: 'Fauna One', serif; 
+}
+
+
